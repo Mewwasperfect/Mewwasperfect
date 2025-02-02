@@ -1,4 +1,4 @@
-[![MasterHead](banner.png)]()
+[![MasterHead](banner.jpg)]()
 <h1 align="center">Hey! Here's Mew</h1>
 <h3 align="center">I'm a Front / Back end developer </h3>
 
